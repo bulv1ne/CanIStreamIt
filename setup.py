@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='CanIStreamIt',
-    version='0.1',
+    version='0.2',
     url='https://github.com/Bulv1ne/CanIStreamIt',
     license='MIT',
     author='Niels Lemmens',
